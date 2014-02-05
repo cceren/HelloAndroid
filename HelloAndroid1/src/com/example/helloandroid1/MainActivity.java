@@ -13,6 +13,7 @@ public class MainActivity extends Activity {
         setContentView(R.layout.activity_main);
         
         Log.v("Tag", "this is a test");
+        Log.v("tag", "and another log statement");
     }
 
 
